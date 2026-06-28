@@ -106,7 +106,6 @@ document.querySelectorAll(".card button").forEach(btn => {
       btn.style.transform = "scale(1)";
       btn.innerText = "Ver Demonstração";
 
-      alert("Aqui você pode colocar o link real do projeto.");
     }, 600);
   });
 });
